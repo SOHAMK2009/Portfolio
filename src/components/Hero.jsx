@@ -47,7 +47,7 @@ function Hero() {
           className="max-w-2xl"
         >
           <h1 className="text-5xl font-black tracking-[-0.06em] text-white sm:text-6xl lg:text-7xl">
-            SOHAM <span className="bg-gradient-to-r from-cyan-300 via-violet-400 to-fuchsia-500 bg-clip-text text-transparent">KHEDEKAR</span>
+            Soham <span className="bg-gradient-to-r from-cyan-300 via-violet-400 to-fuchsia-500 bg-clip-text text-transparent">Khedekar</span>
           </h1>
 
           <div className="mt-6 flex flex-wrap items-center gap-4 text-lg text-cyan-200/90 sm:text-xl">
