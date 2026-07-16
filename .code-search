@@ -1,0 +1,9 @@
+# Query: Focus areas levitating in zero gravity.
+# ContextLines: 1
+
+1 result - 1 file
+
+src/components/Skills.jsx:
+  31            <p className="mb-3 text-sm uppercase tracking-[0.35em] text-cyan-300/70">What I&apos;m learning</p>
+  32:           <h2 className="text-4xl font-black text-white sm:text-5xl">Focus areas levitating in zero gravity.</h2>
+  33            <p className="mt-6 text-lg leading-9 text-slate-300">
